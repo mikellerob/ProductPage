@@ -3,7 +3,7 @@
 Sample webpage demonstrating basic CSS animation and responsive design.
 
 Desktop View
-![](img/README-images/desktop-view.png)
+<img src="img/README-images/desktop-view.png" width="500">
 
 Mobile View
-![](img/README-images/mobile-view.png)
+<img src="img/README-images/mobile-view.png" width="275">
